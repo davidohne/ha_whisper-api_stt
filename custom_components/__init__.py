@@ -1,0 +1,1 @@
+"""Custom integration for OpenAI Whisper API STT."""
